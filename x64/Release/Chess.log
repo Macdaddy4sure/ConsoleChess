@@ -1,0 +1,9 @@
+﻿  Chess.cpp
+D:\_AugmentedIntelligence\_Chess\Chess\Chess.cpp(1843,12): warning C4553: '==': result of expression not used; did you intend '='?
+  Source.cpp
+  Generating code
+  209 of 216 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Chess.vcxproj -> D:\_AugmentedIntelligence\_Chess\Chess\x64\Release\Chess.exe
